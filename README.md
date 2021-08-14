@@ -1,6 +1,6 @@
 # AutomationCucumberTestNg
 
-We can trigger this automation project by executing TestRunner file in the runners folder or we can trigger this project by using TestNg.xml in which have already configured test runner file. You can find the TestNg.xml file in testSuites folder.
+We can trigger this automation project by executing TestRunner file in the runners folder or we can trigger this project by using TestNg.xml in which TestRunner file is already configured. You can find the TestNg.xml file in testSuites folder.
 
 Inorder to change the browser, you can configure that in POM.xml file.
 
